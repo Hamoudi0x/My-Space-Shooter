@@ -1,1 +1,1 @@
-Test for ps4 cup and gpu
+Test for ps4 CPU and GPU
